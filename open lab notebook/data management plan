@@ -1,0 +1,69 @@
+Data management plan
+
+1. project description
+
+Goals:
+ The goal of this study is to compare the explicit representation of music genres between musicians and non-musicians. 
+Furthermore the fitting of music feature models will be compared to the models of the participants (e.g. did they 
+arrange the musical stimuli according to timbre, pitch etc.?).
+
+ Therefore 15 musicians and 15 non-musicians shall be assessed to evaluate 20 samples of music 
+without vocals with a duration of 6 seconds coming from 4 different main genres (rock, classic, african-american, electro). 
+
+ Evaluation of these music samples will take place in front of a computer by the use of inverse multidimensional scaling
+as described by Kriegeskorte & Mur in 2012. After the inverse multidimensional scaling the participants will fill out 
+two questionnaires concerning music preferences (MPQ-R (Nater et al. 2015) & STOMP (Rentfrow & Gosling 2003)) and 
+two tests to determine their musical understanding (MBEA (Peretz et al. 2003), MET (Wallentin et al. 2010)).
+
+ The comparison of the representational similarity matrices shall be done by Pattern Component Modeling as stated 
+by Diedrichsen et al. in 2017.
+
+Promoter: 
+ Peer Herholz is leading the project. Klara Brinkmann is writing her bachelor thesis about music genre similarity.
+
+Duration: 
+ Recruitment of the participants: April – May 
+ Analysis of data: June – July 
+
+2. existing types of data
+- data that can be reused for the project and how their integration could look
+
+3. data to be created in the project
+- types of data: ?
+- formats: ?
+- estimated amount of data: ?
+- further information on the process of creating the data: ?
+- quality assurance: ?
+
+4. data organisation
+- data storage: data will be available as an open source on 
+github https://github.com/C0C0AN/musicgenre_similarities and osf https://osf.io/sb89e/ 
+- data names: ?
+- synchronization: ?
+- versioning: ?
+- etc.
+
+5. administrative and legal aspects
+- funding and legal requirements: ?
+- copyright/ data owner: ?
+- access and use:
+- data protection: all data is going to be pseudonymized using an individual code 
+(5 randomised numbers and 2 randomised capital letters)
+- data security and backup:
+
+
+6. archiving, sharing and publishing data
+- which data will be shared?: data of 
+- how will data be shared?: data will be available as an open source on 
+github https://github.com/C0C0AN/musicgenre_similarities and osf https://osf.io/sb89e/ 
+- information on the planned interoperability with external discipline-specific data services
+
+
+7. responsibilities and duties
+- responsibilities for data management
+Responsible for data management and data protection in this project are Klara Brinkmann and Peer Herholz.
+
+8. costs and resources
+- reports on the costs and the personnel expenditure for maintaining the data management plan
+- running costs for data curation, production of metadata, archiving etc.
+Data management is observed by Klara Brinkmann as part of her bachelor thesis.
