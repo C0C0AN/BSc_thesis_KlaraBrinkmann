@@ -33,3 +33,8 @@ to do's: Datenmanagementplan, Registered Report, OSF: Präregistrierung
 Monday: started to read about Music Information Retrieval "An Evaluation of Audio Feature Extraction Toolboxes" by Moffat et al.
 - Essentia is the music feature extraction toolbox Mirjam, Marie & I first discussed about, tried to install that --> failed
 - discussed with Peer about using Bregman Toolbox: meeting for music information retrieval on tuesday at 8:30
+Tuesday: 
+- installing Bregman Toolkit failed because "suite" couldn't be found.
+- Peer showed to Marie and me how the code for music feature extraction looks like and what is done with it
+- to do's: read about music feature extraction
+- continue with data managementplan 
