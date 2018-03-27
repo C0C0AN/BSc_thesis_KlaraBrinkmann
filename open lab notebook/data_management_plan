@@ -4,8 +4,8 @@ Data management plan
 
 Goals:
  The goal of this study is to compare the explicit representation of music genres between musicians and non-musicians. 
-Furthermore the fitting of music feature models will be compared to the models of the participants (e.g. did they 
-arrange the musical stimuli according to timbre, pitch etc.?).
+Furthermore music feature models will be compared to the models of the participants (e.g. did they 
+arrange the musical stimuli according to timbre, pitch, tempo, rhythm, harmony etc.?).
 
  Therefore 15 musicians and 15 non-musicians shall be assessed to evaluate 20 samples of music 
 without vocals with a duration of 6 seconds coming from 4 different main genres (rock, classic, african-american, electro). 
@@ -17,6 +17,9 @@ two tests to determine their musical understanding (MBEA (Peretz et al. 2003), M
 
  The comparison of the representational similarity matrices shall be done by Pattern Component Modeling as stated 
 by Diedrichsen et al. in 2017.
+- general comparison of the matrices between musicians and non-musicians
+- comparison of the musicians’ matrices with the music feature matrices
+- comparison of the non-musicians’ matrices with the music feature matrices
 
 Promoter: 
  Peer Herholz is leading the project. Klara Brinkmann is writing her bachelor thesis about music genre similarity.
@@ -29,7 +32,9 @@ Duration:
 - data that can be reused for the project and how their integration could look
 
 3. data to be created in the project
-- types of data: ?
+- types of data: 
+matrizen: .mat files
+tests: .tsv files
 - formats: ?
 - estimated amount of data: ?
 - further information on the process of creating the data: ?
@@ -60,7 +65,6 @@ github https://github.com/C0C0AN/musicgenre_similarities and osf https://osf.io/
 
 
 7. responsibilities and duties
-- responsibilities for data management
 Responsible for data management and data protection in this project are Klara Brinkmann and Peer Herholz.
 
 8. costs and resources
