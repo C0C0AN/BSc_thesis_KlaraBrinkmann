@@ -33,3 +33,19 @@ to do's: Datenmanagementplan, Registered Report, OSF: Präregistrierung
 Monday: started to read about Music Information Retrieval "An Evaluation of Audio Feature Extraction Toolboxes" by Moffat et al.
 - Essentia is the music feature extraction toolbox Mirjam, Marie & I first discussed about, tried to install that --> failed
 - discussed with Peer about using Bregman Toolbox: meeting for music information retrieval on tuesday at 8:30
+Tuesday: 
+- installing Bregman Toolkit failed because "suite" couldn't be found.
+- Peer showed to Marie and me how the code for music feature extraction looks like and what is done with it
+- to do's: read about music feature extraction
+- continue with data managementplan 
+Wednesday: 
+- news: validation survey can b uploaded soon: my work: translating it into english
+- continued to work on data managment plan
+Thursday:
+- started to read "Music Perception and Cognition: A Review of recent cross-cultural research" by Stevens
+- skyped with Peer, Mirjam & Marie --> talked about music feature extraction
+to do's until 11.04.2018: install Essentia; get to know how feature extraction works; try distance calculation in Bregman
+-brought 10 music samples of one subgenre into one piece of music with Audacity
+Friday:
+- uploaded data managementplan into slack
+- read the data managementplans of the others in slack
