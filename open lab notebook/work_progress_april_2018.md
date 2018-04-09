@@ -4,3 +4,5 @@
 # 09.04.2018 - 13.04.2018
 ## Monday
 - translated the validation survey from German into English
+- checked questionnaire for validation survey in spyder for "null" for sortable items
+- checked questionnaire for validation survey in spyder for values
