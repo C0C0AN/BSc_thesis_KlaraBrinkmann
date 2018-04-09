@@ -6,42 +6,40 @@ to do's: what can I learn from that paper for my own bachelor thesis
 
 ## 05.03.-09.03.2018
 ### Monday: 
-        summarizing the study of John B. Price "Contributions of Pitch Contour, Tonality, Rhythm and Metre to Melodic Similarity" 
-        in the introduction part of thesis
-         start to read "A theory of Tonal Hierarchies in Music" by Carol L. Krumhansl and Lola L. Cuddy
-         sections: introduction, tonal hierarchy, psychological principloes underlying tonal hierarchies, definitions and
-         distinctions, empirical research: the probe tone method
+- summarizing the study of John B. Price "Contributions of Pitch Contour, Tonality, Rhythm and Metre to Melodic Similarity" 
+in the introduction part of thesis
+- start to read "A theory of Tonal Hierarchies in Music" by Carol L. Krumhansl and Lola L. Cuddy
+- sections: introduction, tonal hierarchy, psychological principloes underlying tonal hierarchies, definitions and
+distinctions, empirical research: the probe tone method
 ### Tuesday: 
-        continue to read "A Theory of Tonal Hierarchies in Music" by Carol L. Krumhansl and Lola L. Cuddy
-        sections: empirical studies: Converging Evidence, Summarizing the Basic Results: Three Principles of Tonal Hierarchies, Contemporary Issues
-        that arise from these basic studies, developmental studies, individual differences and neurological case studies
+- continue to read "A Theory of Tonal Hierarchies in Music" by Carol L. Krumhansl and Lola L. Cuddy
+sections: empirical studies: Converging Evidence, Summarizing the Basic Results: Three Principles of Tonal Hierarchies, Contemporary Issues that arise from these basic studies, developmental studies, individual differences and neurological case studies
 ### Wendesday: 
-        continue to read "A Theory of Tonal Hierarchies in Music" by Carol L. Krumhansl and Lola L. Cuddy
-        sections: Tonal Hierarchies and Tonal Distributions in Western Music, Cross-Cultural Studies of Tonal Hierarchies, 
-        Tonal Hierarchies in Non-Tonal Western Music
+- continue to read "A Theory of Tonal Hierarchies in Music" by Carol L. Krumhansl and Lola L. Cuddy
+sections: Tonal Hierarchies and Tonal Distributions in Western Music, Cross-Cultural Studies of Tonal Hierarchies, Tonal Hierarchies in Non-Tonal Western Music
 
 ## 19.03. - 23.03.2018
 ### to do's: 
-        Datenmanagementplan, Registered Report, OSF: Präregistrierung
+- Datenmanagementplan, Registered Report, OSF: Präregistrierung
 ### Monday: 
-        reading about pitch in "The Oxford Handbook of Music Psychology" and http://auditoryneuroscience.com/pitch
+- reading about pitch in "The Oxford Handbook of Music Psychology" and http://auditoryneuroscience.com/pitch
 ### Tuesday: 
-        started with preregistration report, stopped at analysis part, how will the analysis look like? searched for
-        basic explanations about bayesian modeling in the internet (e.g. what is the prior in bayesian statistics?) started to read
-        the introduction of "Pattern Component Modelling" by Diedrichsen et al.
+- started with preregistration report, stopped at analysis part, how will the analysis look like? searched for
+basic explanations about bayesian modeling in the internet (e.g. what is the prior in bayesian statistics?) started to read
+the introduction of "Pattern Component Modelling" by Diedrichsen et al.
 ### Wednesday: 
-        continue readings on "Pattern Component Modelling" by Diedrichsen et al.
+- continue readings on "Pattern Component Modelling" by Diedrichsen et al.
 ### Thursday:
-        searched for sequences in planet earth videos without violence, sex etc.
+- searched for sequences in planet earth videos without violence, sex etc.
 ### Friday: 
-        read the paper of Yokoi et al. about "The Role of Human Primary Motor Cortex in the Production of Skilled Finger Movements"
-        to get a better understanding of Pattern Component Modelling
-        --> pattern component modeling as an analysis for comparing RDMs
-        --> log bayesian factor as a factor that evaluates the fitting of a model
+- read the paper of Yokoi et al. about "The Role of Human Primary Motor Cortex in the Production of Skilled Finger Movements"
+to get a better understanding of Pattern Component Modelling
+--> pattern component modeling as an analysis for comparing RDMs
+--> log bayesian factor as a factor that evaluates the fitting of a model
 
 ## 26.03- - 30.03.2018
 ### to do's: 
-        Datenmanagementplan, Registered Report, OSF: Präregistrierung
+- Datenmanagementplan, Registered Report, OSF: Präregistrierung
 ### Monday: 
 - started to read about Music Information Retrieval "An Evaluation of Audio Feature Extraction Toolboxes" by Moffat et al.
 - Essentia is the music feature extraction toolbox Mirjam, Marie & I first discussed about, tried to install that --> failed
