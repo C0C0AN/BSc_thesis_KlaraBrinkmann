@@ -1,6 +1,6 @@
-Structure of my thesis (25.01.2018)
+# Structure of my thesis (25.01.2018)
 
-Theoretical introduction
+## Theoretical introduction
 
 - definition of music
 - definition of important elements in music
@@ -10,18 +10,18 @@ Theoretical introduction
 - the approach of using music genres
 - the theory of this study, hypotheses of this study
 
-Methods
+## Methods
 
 - participants
 - materials (stimuli, questionnaires)
 - design (2 conditions: musicians vs. Non-musicians)
 - method (inverse multidimensional scaling)
 
-Results
+## Results
 
 - comparison of matrices between groups (musician & non-musician)
 
-Discussion
+## Discussion
 
 - result similarities and dissimilarities between the two groups
 - discussion in research context
