@@ -14,3 +14,10 @@
 ## Wednesday
 - tried to run essentia in python --> failed
 - trying to figure out why
+
+## Thursday
+- checked validation survey script for typos and umlauts
+
+## Friday
+- clicked through validation survey
+- Bregman toolkit worked after putting the bregman toolkit in the right path (python2.7 environment instead of python 3.6 environment)
