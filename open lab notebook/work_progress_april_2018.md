@@ -30,3 +30,5 @@
 - AG-Meeting
 - correction on baroque nd rock'n'roll music stimuli for validation survey
 - to do's: distance calculation in essentia
+- inform myself about feature extraction
+- http://ismir2000.ismir.net/papers/logan_paper.pdf --> read this paper to understand MFCC
