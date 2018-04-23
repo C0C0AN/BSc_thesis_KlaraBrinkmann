@@ -32,3 +32,11 @@
 - to do's: distance calculation in essentia
 - inform myself about feature extraction
 - http://ismir2000.ismir.net/papers/logan_paper.pdf --> read this paper to understand MFCC
+
+## Wednesday
+- tried to do FFT algorithm in Essentia
+- started with Python tutorials
+
+# 23.04.2018 - 27.04.2018
+
+## Monday
