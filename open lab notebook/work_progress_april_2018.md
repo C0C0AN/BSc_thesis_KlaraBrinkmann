@@ -40,3 +40,5 @@
 # 23.04.2018 - 27.04.2018
 
 ## Monday
+- updated the english validation survey of the music stimuli
+- Python Tutorials: until *args and *kwargs parameters
