@@ -46,3 +46,4 @@
     - continue with python tutorials
     - generate IDs and send them to people
     - think about models for musicians and non-musicians
+    - solve distance calculation in Essentia!!!
