@@ -43,6 +43,6 @@
 - updated the english validation survey of the music stimuli
 - Python Tutorials: until args and kwargs parameters
 - to do's for this week: 
-    continue with python tutorials
-    generate IDs and send them to people
-    think about models for musicians and non-musicians
+    - continue with python tutorials
+    - generate IDs and send them to people
+    - think about models for musicians and non-musicians
