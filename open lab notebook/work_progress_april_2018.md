@@ -53,3 +53,6 @@
 
 ## Friday
 - sended validation questionnaire to people
+
+## Sunday
+- worked on introduction part for thesis
