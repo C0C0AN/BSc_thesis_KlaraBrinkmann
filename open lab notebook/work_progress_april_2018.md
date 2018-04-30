@@ -37,6 +37,7 @@
 - tried to do FFT algorithm in Essentia
 - started with Python tutorials
 
+
 # 23.04.2018 - 27.04.2018
 
 ## Monday
@@ -56,3 +57,6 @@
 
 ## Sunday
 - worked on introduction part for thesis
+
+# 30.04.2018 - 04.05.2018
+- corrigated String for validation survey
