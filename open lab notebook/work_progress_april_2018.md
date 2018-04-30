@@ -47,3 +47,9 @@
     - generate IDs and send them to people
     - think about models for musicians and non-musicians
     - solve distance calculation in Essentia!!!
+
+## Tuesday
+- Python Tutorials: classes, modules and exceptions
+
+## Friday
+- sended validation questionnaire to people
