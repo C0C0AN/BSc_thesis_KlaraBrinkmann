@@ -59,4 +59,10 @@
 - worked on introduction part for thesis
 
 # 30.04.2018 - 04.05.2018
+
+## Monday
 - corrigated String for validation survey
+- distance calculation in essentia is possible but the output is different to Bregman
+
+## Wednesday
+- to do: distance calculation in essentia
