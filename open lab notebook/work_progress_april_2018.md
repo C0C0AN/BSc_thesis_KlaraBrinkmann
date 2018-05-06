@@ -66,3 +66,15 @@
 
 ## Wednesday
 - to do: distance calculation in essentia
+- discovered article about music feature extraction http://ismir2010.ismir.net/proceedings/ismir2010-107.pdf
+- prepared presentation for brainhack on friday about music feature extraction
+
+## Thursday
+- prepared presentation for brainhack on friday about music feature extraction
+
+## Friday
+- brainhack: presentation about music feature extraction
+    --> remaining questions: why do we have to connect algorithms in Essentia?
+    --> shift operator in Essentia means something else than stated in Python tutorials
+- euclidean distance calculation can also be done with scikitlearn
+- euclidean distance of bregman is normed --> why?
