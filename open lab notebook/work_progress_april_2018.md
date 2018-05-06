@@ -77,4 +77,13 @@
     --> remaining questions: why do we have to connect algorithms in Essentia?
     --> shift operator in Essentia means something else than stated in Python tutorials
 - euclidean distance calculation can also be done with scikitlearn
-- euclidean distance of bregman is normed --> why?
+- euclidean distance of bregman is normed --> this results in different values of different programs, but euclidean distance should be the same, bregman doesn't explain how they "normed" their values, it is just stated that they normed their values
+
+## Saturday
+- drawed models for musicians and non-musicians on paper
+--> open question: which values should we assume for models? Is there any study we can orientate on?
+- discovered Journal of New Music Research: downloaded some articles about music feature extraction
+to do: read those articles about music feature extraction
+
+## Sunday
+- reading
