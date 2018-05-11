@@ -30,5 +30,5 @@ this is done by a 'if, else command'
 - did some corrections on the function for converting json files into csv files because there was always the error "missing values for chills often" for every subject
 --> 'auschließlich' to 'ausschliesslich'
 - wrote the for loop so that the loop will go through every file in my order where the json files are and convert them into csv files
-to do: Essentia --> audio analysis
+- to do: Essentia --> audio analysis
         look at Michaels proposals for analysing questionnaire
