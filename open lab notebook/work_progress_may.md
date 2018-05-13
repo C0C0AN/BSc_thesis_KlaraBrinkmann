@@ -32,3 +32,12 @@ this is done by a 'if, else command'
 - wrote the for loop so that the loop will go through every file in my order where the json files are and convert them into csv files
 - to do: Essentia --> audio analysis
         look at Michaels proposals for analysing questionnaire
+
+## Saturday
+- checked the error files for missing values and wrote that into the spreadsheet
+- marked "no missing values" and "missing value for active music cur dur" as green
+- marked columns as yellow when there was more missing than stated above
+- marked columns red when "sortables" were missing
+
+## Sunday
+- reading "The capacity of music: What is it? And what is special about it?" by Lerdahl and Jackendorff in 2006
