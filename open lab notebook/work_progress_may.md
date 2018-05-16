@@ -56,14 +56,14 @@ this is done by a 'if, else command'
 
 ## Wednesday
 - discussion with Mirjam and Marie about Music Feature Extraction
-        - showed Essentia Tutorials to them
-        - explained them that we can also use scikitlearn to estimate distances
-        - Mirjam showed Pliers: advantage: it is easier to use than Essentia    disadvantage: has only 1 rhythm extractor
-        - overall discussion with Peer: Pliers is using Librosa
-        - found out that Librosa has more than one rhythm extractor
-        - decided to use Librosa and decided which features we want to extract with Librosa
- - to do: for paper: report of the results and methods of the questionnaire
-                     Feature Extraction of all 200 music stimuli with Essentia and Librosa
-          for thesis: Feature Extraction of 20 most representative stimuli with Librosa
-          general: find out which hop size & frame size & window type to chose for spectral & temporal features
-          keep in mind that spectral features have less time bins and temporal features should have more time bins
+- showed Essentia Tutorials to them
+- explained them that we can also use scikitlearn to estimate distances
+- Mirjam showed Pliers: advantage: it is easier to use than Essentia    disadvantage: has only 1 rhythm extractor
+- overall discussion with Peer: Pliers is using Librosa
+- found out that Librosa has more than one rhythm extractor
+- decided to use Librosa and decided which features we want to extract with Librosa
+- to do: for paper: report of the results and methods of the questionnaire
+- Feature Extraction of all 200 music stimuli with Essentia and Librosa
+- for thesis: Feature Extraction of 20 most representative stimuli with Librosa
+- general: find out which hop size & frame size & window type to chose for spectral & temporal features
+- keep in mind that spectral features have less time bins and temporal features should have more time bins
