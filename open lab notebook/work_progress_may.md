@@ -67,3 +67,12 @@ this is done by a 'if, else command'
 - for thesis: Feature Extraction of 20 most representative stimuli with Librosa
 - general: find out which hop size & frame size & window type to chose for spectral & temporal features
 - keep in mind that spectral features have less time bins and temporal features should have more time bins
+- DONE: reading about window size and hop size 
+
+## Thursday
+- reading about window size and hop size
+
+## Friday
+- tried to solve the script problem for our analysis of our validation survey
+--> couldn't find a resolution until now
+- read "Audio properties of perceived boundaries in music"
