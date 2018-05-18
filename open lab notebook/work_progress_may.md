@@ -41,3 +41,38 @@ this is done by a 'if, else command'
 
 ## Sunday
 - reading "The capacity of music: What is it? And what is special about it?" by Lerdahl and Jackendorff in 2006
+
+# 14.05. - 18.05.2018
+
+## Monday
+- analyzed all csv files with Michael's Script for the full dataset 
+- plotted the results in a presentation on Google Drive
+
+## Tuesday
+- lab meeting
+- worked on music feature extraction in Bregman
+--> got the error: couldn't find wavread
+- read the introduction part of "Python for everybody"
+
+## Wednesday
+- discussion with Mirjam and Marie about Music Feature Extraction
+- showed Essentia Tutorials to them
+- explained them that we can also use scikitlearn to estimate distances
+- Mirjam showed Pliers: advantage: it is easier to use than Essentia    disadvantage: has only 1 rhythm extractor
+- overall discussion with Peer: Pliers is using Librosa
+- found out that Librosa has more than one rhythm extractor
+- decided to use Librosa and decided which features we want to extract with Librosa
+- to do: for paper: report of the results and methods of the questionnaire
+- Feature Extraction of all 200 music stimuli with Essentia and Librosa
+- for thesis: Feature Extraction of 20 most representative stimuli with Librosa
+- general: find out which hop size & frame size & window type to chose for spectral & temporal features
+- keep in mind that spectral features have less time bins and temporal features should have more time bins
+- DONE: reading about window size and hop size 
+
+## Thursday
+- reading about window size and hop size
+
+## Friday
+- tried to solve the script problem for our analysis of our validation survey
+--> couldn't find a resolution until now
+- read "Audio properties of perceived boundaries in music"
