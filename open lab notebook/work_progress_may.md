@@ -91,5 +91,5 @@ this is done by a 'if, else command'
 ## Tuesday
 - lab meeting
 - validation survey: collected the last participants together; wrote them into json file; wrote them into csv files; concatenated csv files; created full dataset and posted it on slack (33 participants)
-- pycharm: tried to do genre_weights_sum with the validation survey data but it didn't work out because the python interpreter was wrong; changed python interpreter to 3.6; pycharm still works with old script??
+- pycharm: tried to do genre_weights_sum with the validation survey data but it didn't work out because the python interpreter was wrong; changed python interpreter to 3.6; pycharm still works with old script? Error running 'genre_weights_sum': Cannot run program "/tmp/genre_weights_final.py/venv/bin/python" (in directory "/home/klara/Dokumente/7/Bachelorarbeit/Fragebogen"): error=2, Datei oder Verzeichnis nicht gefunden
 
