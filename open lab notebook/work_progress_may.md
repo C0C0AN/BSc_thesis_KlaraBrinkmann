@@ -76,3 +76,20 @@ this is done by a 'if, else command'
 - tried to solve the script problem for our analysis of our validation survey
 --> couldn't find a resolution until now
 - read "Audio properties of perceived boundaries in music"
+
+## Saturday
+- continue reading on "Audio properties of perceived boundaries in music"
+
+## Sunday
+- continue reading on "Audio properties of perceived boundaries in music"
+
+# 21.05.2018 - 27.05.2018
+
+## Monday
+- read about Euclidean distance and Mahalonobis distance
+
+## Tuesday
+- lab meeting
+- validation survey: collected the last participants together; wrote them into json file; wrote them into csv files; concatenated csv files; created full dataset and posted it on slack (33 participants)
+- pycharm: tried to do genre_weights_sum with the validation survey data but it didn't work out because the python interpreter was wrong; changed python interpreter to 3.6; pycharm still works with old script??
+
