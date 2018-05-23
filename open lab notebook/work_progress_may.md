@@ -86,10 +86,15 @@ this is done by a 'if, else command'
 # 21.05.2018 - 27.05.2018
 
 ## Monday
-- read about Euclidean distance and Mahalonobis distance
+- read about Euclidean distance and Mahalanobis distance
 
 ## Tuesday
 - lab meeting
 - validation survey: collected the last participants together; wrote them into json file; wrote them into csv files; concatenated csv files; created full dataset and posted it on slack (33 participants)
 - pycharm: tried to do genre_weights_sum with the validation survey data but it didn't work out because the python interpreter was wrong; changed python interpreter to 3.6; pycharm still works with old script? Error running 'genre_weights_sum': Cannot run program "/tmp/genre_weights_final.py/venv/bin/python" (in directory "/home/klara/Dokumente/7/Bachelorarbeit/Fragebogen"): error=2, Datei oder Verzeichnis nicht gefunden --> solved that problem: deleted venv folder and set the python interpreter 3.6 in the folder where the genre_weights_sum is
 
+## Wednesday
+- calculated Chroma_cqt in Pliers for music stimuli of my study
+- read again about Mahalanobis distance: measures distance in relation to a centroid (point in a multidimensional space where all variable means cut themselves; the larger the MD the further away is the data point from the centroid
+- tried to estimate distance bettween two examples
+- try the experiment in matlab: 2 and 9 are the same stimuli; two objects will move at the same
