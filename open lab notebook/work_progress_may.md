@@ -98,3 +98,23 @@ this is done by a 'if, else command'
 - read again about Mahalanobis distance: measures distance in relation to a centroid (point in a multidimensional space where all variable means cut themselves; the larger the MD the further away is the data point from the centroid)
 - tried to estimate distance bettween two examples
 - tried the experiment in matlab: baroque 2 and renaissance 1 are the same stimuli; two objects will move at the same time when clicking on them after one another; there should be an instruction for the participant that listening to the stimuli requires a click on right mouse side and quit listening requires a press on space bar and moving the item requires a click on the left mouse side
+
+## Thursday
+- talked with Mirjam about stimuli in Renaissance: decided to take the second representative which is renaissance4
+- did the multi arrangement experiment in Matlab and completed it
+
+## Friday
+- tried to compute tempogram of my stimuli with librosa (used the example on this page for that: https://librosa.github.io/librosa/generated/librosa.feature.tempogram.html#librosa.feature.tempogram
+
+- what works:
+- uploading the audio file and defining it's hop length
+- compute the onset strength
+- compute the tempogram
+- compute the tempo
+
+- Problems:
+- it is possible to compute the global autocorrelation but it is not possible to display it in a graph
+- the error for that is:
+- ValueError: x and y must have same first dimension, but have shapes (384,) and (259,) in line 18: plt.plot(x, ac_global, '--', alpha=0.75, label='Global autocorrelation')
+- I am not sure what the global autocorrelation measures (correlation of the signal with a delayed copy of itself over time in a spatial space?
+to find repeated patterns? means if the rhythm is repeating and when it is repeating?)
