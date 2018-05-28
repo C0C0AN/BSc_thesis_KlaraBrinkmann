@@ -118,3 +118,17 @@ this is done by a 'if, else command'
 - ValueError: x and y must have same first dimension, but have shapes (384,) and (259,) in line 18: plt.plot(x, ac_global, '--', alpha=0.75, label='Global autocorrelation')
 - I am not sure what the global autocorrelation measures (correlation of the signal with a delayed copy of itself over time in a spatial space?
 to find repeated patterns? means if the rhythm is repeating and when it is repeating?)
+
+## Sunday
+- read 'onsets, tempo and beats' in http://conference.scipy.org/proceedings/scipy2015/pdfs/brian_mcfee.pdf to understand how I can compute rhythm features in librosa
+- read https://domino.mpi-inf.mpg.de/intranet/ag4/ag4publ.nsf/0/94779f9f00f541a7c12577540055b43d/$FILE/2010_GroscheMuellerKurth_TempogramCyclic_ICASSP.pdf to understand the cyclic tempogram of librosa/pliers
+- read 
+
+# 28.05.2018 - 01.06.2018
+
+## Monday
+- extracted tempo and beat in librosa for one example (alternative)
+- find this easier to understand than the tempogram, moreover there are no errors while computing it
+- what is the advantage of a tempogram? what is the advantage of having an autocorrelation?
+
+
