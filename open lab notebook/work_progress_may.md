@@ -130,5 +130,6 @@ to find repeated patterns? means if the rhythm is repeating and when it is repea
 - extracted tempo and beat in librosa for one example (alternative)
 - find this easier to understand than the tempogram, moreover there are no errors while computing it
 - what is the advantage of a tempogram? what is the advantage of having an autocorrelation?
-
+- extracted rhythm in Essentia: will get the same BPM like in librosa for the example "alternative" but won't get the same values for beat positions (in Essentia 13 values and in librosa 5 values)
+- Essentia provided a tool to check if the beat estimation is correct; beat estimations are not very precise
 
