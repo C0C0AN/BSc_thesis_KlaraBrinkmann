@@ -133,3 +133,6 @@ to find repeated patterns? means if the rhythm is repeating and when it is repea
 - extracted rhythm in Essentia: will get the same BPM like in librosa for the example "alternative" but won't get the same values for beat positions (in Essentia 13 values and in librosa 5 values)
 - Essentia provided a tool to check if the beat estimation is correct; beat estimations are not very precise
 
+## Tuesday
+- talked about music feature extraction with Mirjam & Marie:
+- decided to write a for loop for the feature extraction
