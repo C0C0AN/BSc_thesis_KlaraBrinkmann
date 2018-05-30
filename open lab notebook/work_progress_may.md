@@ -134,5 +134,20 @@ to find repeated patterns? means if the rhythm is repeating and when it is repea
 - Essentia provided a tool to check if the beat estimation is correct; beat estimations are not very precise
 
 ## Tuesday
-- talked about music feature extraction with Mirjam & Marie:
+- talked about music feature extraction with Mirjam & Marie: they find static and dynamic tempo and beat positions also more understandable than autocorrelation, besides that it is still not clear what the difference between a global and a local autocorrelation is
 - decided to write a for loop for the feature extraction
+- Mirjam finished that for loop and sent it to me
+- started with calculation of euclidean distance and mahalanobis distance for static and dynamic tempo
+- for static tempo it immediately worked out
+- but for dynamic tempo shape has to be changed
+- for euclidean distance I reshaped dynamic tempo to (1, -1)
+- for mahalanobis distance that reshape didn't work.
+- received the value error: The number of observations (2) is too small; the covariance matrix is singular. For observations with 259 dimensions, at least 260 observations are required.
+
+## Wednesday
+- searched solution for mahalanobis error
+- found solution: for mahalanobis distance I reshaped dynamic tempo to (-1, 1)
+- changed Mirjams for-loop in my laptop and changed the paths
+- remember: in spyder the working directory will be the directory where the command is looking for the music stimuli
+- and spyder has to be opened with "source activate py27" otherwise the iPython is in 2.4.1
+- opening spyder with "source activate py27" will open Python 3.6.3 |Anaconda, Inc.| IPython 6.1.0 
