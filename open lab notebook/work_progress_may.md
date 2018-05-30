@@ -140,13 +140,13 @@ to find repeated patterns? means if the rhythm is repeating and when it is repea
 - started with calculation of euclidean distance and mahalanobis distance for static and dynamic tempo
 - for static tempo it immediately worked out
 - but for dynamic tempo shape has to be changed
-- for euclidean distance I reshaped dynamic tempo to (1, -1)
+- for euclidean distance I reshaped dynamic tempo to (1, -1);
 - for mahalanobis distance that reshape didn't work.
 - received the value error: The number of observations (2) is too small; the covariance matrix is singular. For observations with 259 dimensions, at least 260 observations are required.
 
 ## Wednesday
 - searched solution for mahalanobis error
-- found solution: for mahalanobis distance I reshaped dynamic tempo to (-1, 1)
+- found solution: for mahalanobis distance I reshaped dynamic tempo to (-1, 1) --> we need more observations than dimensions; with reshape(-1,1) we will get shape (259, 1); remember that observations are rows!!!
 - changed Mirjams for-loop in my laptop and changed the paths
 - remember: in spyder the working directory will be the directory where the command is looking for the music stimuli
 - and spyder has to be opened with "source activate py27" otherwise the iPython is in 2.4.1
