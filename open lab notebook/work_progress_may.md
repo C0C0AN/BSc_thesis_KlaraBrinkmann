@@ -151,3 +151,20 @@ to find repeated patterns? means if the rhythm is repeating and when it is repea
 - remember: in spyder the working directory will be the directory where the command is looking for the music stimuli
 - and spyder has to be opened with "source activate py27" otherwise the iPython is in 2.4.1
 - opening spyder with "source activate py27" will open Python 3.6.3 |Anaconda, Inc.| IPython 6.1.0 
+
+## Friday
+- tried to write a script for calculating mahalanobis distance with music features
+
+## Sunday
+- checked settings for my experiment: 
+- put informed consent, open brain document, information for the subject, description of the study together in a file
+- STOMP and MPQ-R are not available on laptop --> have to program it in psychopy
+- MET and IMDS in Matlab --> have to check if it is working correctly
+- have to write a flowsheet
+
+04.06.2018 - 10.06.2018
+
+## Monday
+- set up experiment in psychopy (MPQ-R and STOMP)
+- checked inverse multidimensional scaling with Peer --> is working
+- checked MET with Peer --> is working , check again on Tuesday
