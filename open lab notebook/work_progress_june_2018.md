@@ -38,6 +38,8 @@ holidays
 # 25.06. - 30.06.2018
 
 ## Monday
-- recruited persons for my experiment
+- received a yes of 6 subjects for my experiment (I have recruited 3 until now)
 - wrote e-mail for distributor of experimental subjects
-- read e-mail of Malte for ethics proposal
+- read e-mail of Malte for ethics proposal; did some comments in his document; sent that back to him
+- gave registration document with signatures of supervisors of thesis back to examination office of psychology
+
