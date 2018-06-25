@@ -22,5 +22,22 @@
 ## Friday
 - talked with Marie together with professor about our ethics proposal
 - set up STOMP on mac: is working now
-- set up iMDS on mac:
+- set up iMDS on mac: is working now
 - set up MPQ-R on mac (corrected text height in chills): is working now
+
+## Saturday
+- tested 2 persons
+
+# 11.06. - 24.06.2018
+
+## Monday
+- binding registration for bachelor thesis
+
+holidays
+
+# 25.06. - 30.06.2018
+
+## Monday
+- recruited persons for my experiment
+- wrote e-mail for distributor of experimental subjects
+- read e-mail of Malte for ethics proposal
