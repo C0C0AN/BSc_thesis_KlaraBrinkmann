@@ -43,3 +43,20 @@ holidays
 - read e-mail of Malte for ethics proposal; did some comments in his document; sent that back to him
 - gave registration document with signatures of supervisors of thesis back to examination office of psychology
 
+## Tuesday
+- office meeting: Marie has nearly recruited all participants; Mirjam as well
+- send e-mail to disttributor of experimental subjects
+- organized further acquisition of participants
+- talked with Peer about analysis: want to transform matrix of the arrangement to a vector with "nilearn.connectome.sym_matrix_to_vec(symmetric, discard_diagonal=True)" for further computation
+- by the help of sklearn.svm (support vector machines) we want to measure if the model of musicians can predict the assessed arrangement of the musicians and if the model of non-musicians can predict the assessed arrangement of non-musicians
+- read about matrix to vector function and about prediction with sklearn svm
+
+## Wednesday
+- helped Marie with EEG experiment
+- talked about the ethics proposal and the changes we want to make
+- helped Rebeccas and Jan-Otto with experiment
+- recruited one subject
+
+## Thursday
+- recruited 3 subjects
+- talked with Marie about ethics proposal, sent that corrected version to Malte
