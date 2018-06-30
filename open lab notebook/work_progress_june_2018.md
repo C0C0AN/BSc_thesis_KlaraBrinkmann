@@ -60,3 +60,12 @@ holidays
 ## Thursday
 - recruited 3 subjects
 - talked with Marie about ethics proposal, sent that corrected version to Malte
+
+## Friday
+- recruited 2 subjects
+- had some problems with the MET in Matlab Version, was not writing an information sheet so that there was no information about subjects results in the end --> think that it was due to an 'one-time error' because the second time it worked out
+
+## Saturday
+- subject didn't come to experiment
+- saved all data from lenovo to my laptop and my external storage
+- writing on introduction (specifically "Psychology of Music" by Diana Deutsch and "Population codes representing musical timbre for high-level fMRI categorization of music genres" by Casey et al.)
