@@ -24,3 +24,22 @@
 - recruited one person, one person cancelled appointment and asked for an appointment next week
 - worked on introduction
 - read Experiment 1 and 2 of "An Empirically Derived Measure of Melodic Similarity" by Russo et al. 
+
+# 09.07. - 13.07.2018
+
+## Monday
+- Peer explained the overall procedure in analysis of the behavioral data
+- Marie created a google docs sheet for that
+- converted files in matlab from 1x190 vectors into 20x20 matrices by the command 'behav_RDM_square=squareRDM(estimate_dissimMat_ltv)'
+- created a structure for all files in matlab with columns 'RDM', 'name' and 'musician'
+
+## Tuesday
+- recruited 2 subjects
+- created conceptual models with Marie (allequal-model, allunequal-model, randomization-model, maingenre-model)
+
+## Wednesday
+- recruited 2 subjects
+
+## Thursday
+- converted matfiles into csv files
+- created RDMs
