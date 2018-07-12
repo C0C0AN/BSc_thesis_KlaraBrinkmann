@@ -32,6 +32,10 @@
 - Marie created a google docs sheet for that
 - converted files in matlab from 1x190 vectors into 20x20 matrices by the command 'behav_RDM_square=squareRDM(estimate_dissimMat_ltv)'
 - created a structure for all files in matlab with columns 'RDM', 'name' and 'musician'
+- computed average for musicians and non-musicians in Matlab (Matlab needs specific naming for 'nme' column
+in name column there has to be 'subject' 
+- average function is named 'averageRDMs_subjectSession.m'
+
 
 ## Tuesday
 - recruited 2 subjects
