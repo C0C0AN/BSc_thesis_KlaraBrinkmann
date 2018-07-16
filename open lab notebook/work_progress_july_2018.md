@@ -47,3 +47,14 @@ in name column there has to be 'subject'
 ## Thursday
 - converted matfiles into csv files
 - created RDMs
+
+# 16.07. - 22.07.2018
+
+## Monday
+- created conceptual models for musicians and non-musicians
+- remade conceptual models (allUnequal, allEqual, mainGenres & randomization) so that they are available in csv format
+- visualized them in jupyter notebook --> good cmap to visualize: Spectral_r
+- failed at creating MDS plots because there is no input in concatenating function (after concatenating there is no data in "asdfasdfadsf.pkl")
+- uploaded all conceptual models in Google Drive
+- uploaded all RDMs of musicians and non-musicians in Google Drive
+
