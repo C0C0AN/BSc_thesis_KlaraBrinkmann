@@ -35,7 +35,7 @@
 - computed average for musicians and non-musicians in Matlab (Matlab needs specific naming for 'nme' column
 in name column there has to be 'subject' 
 - average function is named 'averageRDMs_subjectSession.m'
-
+TO DO: concatenate RDMs, create MDS of RDMs, create models of music features
 
 ## Tuesday
 - recruited 2 subjects
