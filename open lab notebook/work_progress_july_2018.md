@@ -60,6 +60,7 @@ TO DO: concatenate RDMs, create MDS of RDMs, create models of music features
 
 ## Tuesday
 - wrote down the procedure of computing the results
+- created RDMs for music feature models
 
 ## Wednesday
 - created average_RDM and average_MDS of musicians and all again because I included the two outliers on monday
