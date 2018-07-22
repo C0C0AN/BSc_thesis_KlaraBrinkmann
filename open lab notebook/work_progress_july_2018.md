@@ -106,3 +106,5 @@ TO DO: concatenate RDMs, create MDS of RDMs, create models of music features
 - wrote a description of the average_RDM for all subjects, for musicians only and for non-musicians only
 - looked up which part of the songs we use in our study (if intro, chorus or verse)
 
+## Sunday
+- reading for introduction 
