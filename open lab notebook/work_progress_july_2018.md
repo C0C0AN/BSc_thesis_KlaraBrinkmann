@@ -58,3 +58,53 @@ TO DO: concatenate RDMs, create MDS of RDMs, create models of music features
 - uploaded all conceptual models in Google Drive
 - uploaded all RDMs of musicians and non-musicians in Google Drive
 
+## Tuesday
+- wrote down the procedure of computing the results
+- created RDMs for music feature models
+
+## Wednesday
+- created average_RDM and average_MDS of musicians and all again because I included the two outliers on monday
+- created second_order MDS of all and musicians
+- uploaded everything on google drive
+- tried to do a MDS for every single person (Error: ValueError: Length mismatch: Expected axis has 20 elements, new values have 19 elements)
+- concatenating function doesn't work when it is run as a whole --> only seperate parts of that should be run and with this part of the script it works: 
+- global dict_rdms
+- global DefaultListOrderedDict
+- from os.path import join as opj
+- import sys
+- from glob import glob
+- from scipy.io.matlab import loadmat
+- import pandas as pd
+- from collections import OrderedDict
+- import pickle
+
+- class DefaultListOrderedDict(OrderedDict):
+    - def __missing__(self,k):
+        - self[k] = []
+        - return self[k]
+- path='/home/...'
+- list_rdms=glob(path + '*.csv')
+- keys=['id','rdm']
+- id = []
+- rdms =[]
+- for file in list_rdms:
+    - id.append(file[(file.rfind('/') + 1):file.rfind('.')])
+    - rdms.append(pd.read_csv(file))
+- global dict_rdms
+- dict_rdms = DefaultListOrderedDict()
+- for key in keys:
+    - for id_rdm in enumerate(id):
+        - if key == 'id':
+            - dict_rdms[key].append(id[id_rdm[0]])
+        - elif key == 'rdm':
+            - dict_rdms[key].append(rdms[id_rdm[0]])
+- pkl_rdm = open("rdm.pkl", "wb")
+- pickle.dump(dict_rdms, pkl_rdm)
+- pkl_rdm.close()
+
+*
+- wrote a description of the average_RDM for all subjects, for musicians only and for non-musicians only
+- looked up which part of the songs we use in our study (if intro, chorus or verse)
+
+## Sunday
+- reading for introduction 
