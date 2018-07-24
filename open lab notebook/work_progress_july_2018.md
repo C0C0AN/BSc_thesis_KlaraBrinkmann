@@ -112,10 +112,10 @@ TO DO: concatenate RDMs, create MDS of RDMs, create models of music features
 # 24.07. - 27.07.2018
 
 ## Monday
-- created a data sheet for all participants
+- created a data sheet where all data is stored together for all participants
 
 ## Tuesday
-- filled in the last participants in that data sheet
+- filled in the last participants in data sheet where all participants data is stored together
 - prediction of groups by matrices: 
     - therefore, I converted the matrices into vectors
     - command for that: 
@@ -125,3 +125,49 @@ TO DO: concatenate RDMs, create MDS of RDMs, create models of music features
         - data_sub01 = pd.read_csv('copy path of csv-file')
         - matrix_sub01=data_sub01.as_matrix()
         - vector_sub01 = nilearn.connectome.sym_matrix_to_vec(matrix_sub01, discard_diagonal=True)
+    - then the vectors have to be put together in one nested array
+    - command for that:
+        - imds = np.array([vector_sub01, vector_sub02, vector_sub03, vector_sub04, vector_sub05, vector_sub06, vector_sub07, vector_sub08, vector_sub09, vector_sub10, vector_sub11, vector_sub13, vector_sub15, vector_sub16, vector_sub17, vector_sub18, vector_sub19, vector_sub20, vector_sub21])
+    - another array is necessary where every subject gets a group name (group names are in order of vectors --> vector_sub01 is non-musician in 0 index in classes array
+        - classes = np.array(['non-musician', 'musician', 'musician', 'musician', 'musician', 'musician', 'musician', 'non-musician', 'musician', 'non-musician', 'musician', 'non-musician', 'non-musician', 'non-musician', 'non-musician', 'non-musician', 'non-musician', 'musician', 'musician'])
+    - cross-validation of subjects
+        - import numpy as np
+        - from sklearn.model_selection import StratifiedShuffleSplit
+
+        - n_iter = 10000
+        - _, classes_binary = np.unique(classes, return_inverse=True)
+        - cv = StratifiedShuffleSplit(n_splits=n_iter, test_size=0.5, random_state=0)
+    - prediction of groups by several classifiers
+        - from sklearn.model_selection import cross_val_score
+        - from sklearn.svm import LinearSVC
+        - svc = LinearSVC(penalty='l2', random_state=0)
+
+        - from sklearn.naive_bayes import GaussianNB
+        - gnb=GaussianNB()
+
+        - from sklearn.ensemble import RandomForestClassifier
+        - rfc=RandomForestClassifier()
+
+        - from sklearn.neighbors import KNeighborsClassifier
+        - knc = KNeighborsClassifier()
+
+
+        - iter_for_prediction = cv.split(imds, classes_binary)
+        - scores = []
+        - # Try cv.get_n_splits()
+        - for index, (train_index, test_index) in enumerate(iter_for_prediction):
+        -  prediction_scores = cross_val_score(
+        - estimator=svc,  # classifier
+        - X=imds,  # Data to fit
+        - y=classes_binary,  # Target variables
+        - scoring='roc_auc',  # scoring
+        - cv=[(train_index, test_index)],
+        )
+        - scores.append(prediction_scores)  # for each split we gather scores
+
+        - scores = np.asarray(scores)
+        - print(" -- Support Vector Classification -- ")
+        - print("Classification scores '%s': %1.2f +/- %1.2f" % ('correlation',
+                                                       scores.mean(),
+                                                       scores.std()))
+    - all code is taken from https://github.com/KamalakerDadi/Tutorial/blob/master/BrainHack/Paris_2017/plot_cobre_connectivity_analysis.ipynb
