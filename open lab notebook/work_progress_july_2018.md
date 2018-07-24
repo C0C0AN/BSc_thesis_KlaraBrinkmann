@@ -122,3 +122,6 @@ TO DO: concatenate RDMs, create MDS of RDMs, create models of music features
         - import nilearn
         - from nilearn import connectome
         - import pandas as pd
+        - data_sub01 = pd.read_csv('copy path of csv-file')
+        - matrix_sub01=data_sub01.as_matrix()
+        - vector_sub01 = nilearn.connectome.sym_matrix_to_vec(matrix_sub01, discard_diagonal=True)
