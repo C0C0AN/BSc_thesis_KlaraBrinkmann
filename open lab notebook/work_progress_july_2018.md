@@ -108,3 +108,17 @@ TO DO: concatenate RDMs, create MDS of RDMs, create models of music features
 
 ## Sunday
 - reading for introduction 
+
+# 24.07. - 27.07.2018
+
+## Monday
+- created a data sheet for all participants
+
+## Tuesday
+- filled in the last participants in that data sheet
+- prediction of groups by matrices: 
+    - therefore, I converted the matrices into vectors
+    - command for that: 
+        - import nilearn
+        - from nilearn import connectome
+        - import pandas as pd
