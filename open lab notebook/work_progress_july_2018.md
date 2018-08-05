@@ -171,3 +171,17 @@ TO DO: concatenate RDMs, create MDS of RDMs, create models of music features
                                                        scores.mean(),
                                                        scores.std()))
     - all code is taken from https://github.com/KamalakerDadi/Tutorial/blob/master/BrainHack/Paris_2017/plot_cobre_connectivity_analysis.ipynb
+
+## Wednesday
+- data analysis
+
+## Thursday
+- writing on methods part
+
+## Friday
+- writing on methods part
+
+# 30.07. - 03.08.2018
+
+holidays
+
