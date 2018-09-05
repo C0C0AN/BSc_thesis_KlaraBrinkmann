@@ -13,7 +13,7 @@ writing on introduction
 
 # 13.08. - 19.08.2018
 
-writing on introduction and methods
+- writing on introduction and methods
 
 # 20.08. - 26.08.2018
 
@@ -25,10 +25,10 @@ pause
 
 # 27.08. - 31.08.
 
-writing on methods
-analyzing data
-correcting criticized points in methods section
-to do: correction on introduction
+- writing on methods
+- analyzing data
+- correcting criticized points in methods section
+- to do: correction on introduction
 
 # Tuesday
 - meeting with Peer: talked about things to correct
