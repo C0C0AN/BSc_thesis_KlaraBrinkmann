@@ -12,3 +12,11 @@
 
 ## Wednesday
 - writing of results
+
+## Thursday
+- analysis of MET
+- writing results of MET in method section
+- analysis of reported strategies
+- creating graphic for reported strategies and writing short abstract for that in results
+- writing in results in section for musicians and non-musicians --> compare their correlations with model RDMs
+
